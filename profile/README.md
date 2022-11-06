@@ -18,6 +18,8 @@ Main directions:
 
 contact me：me@xujiajun.cn
 
-NutsDB proposals：https://github.com/nutsdb/proposal/issues
+## Proposals
+https://github.com/nutsdb/proposal/issues
 
-[How to contribute to NutsDB](https://github.com/nutsdb/nutsdb/issues/216)
+## How to contribute to NutsDB
+https://github.com/nutsdb/nutsdb/issues/216
