@@ -16,7 +16,8 @@ Main directions:
 * 2. Tool ecology such as cli, visualization tools, etc.   
 * 3. Document construction, etc.
 
-contact me：xjj513@163.com
+contact me：
+xjj513@163.com or elliotchenzihang@gmail.com
 
 ## Proposals
 https://github.com/nutsdb/proposal/issues
