@@ -21,5 +21,9 @@ contact me：xjj513@163.com
 ## Proposals
 https://github.com/nutsdb/proposal/issues
 
+## Suggestions for commercialisation of the project
+
+https://github.com/nutsdb/nutsdb/issues/552
+
 ## How to contribute to NutsDB
 https://github.com/nutsdb/nutsdb/issues/216
